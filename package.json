@@ -1,0 +1,24 @@
+{
+  "name": "countlines",
+  "version": "0.0.1",
+  "description": "Count new line characters from a file whose path is provided in the arguments",
+  "main": "countlines.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ndixit/countlines"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "count lines",
+    "counter"
+  ],
+  "author": "Neha Dixit (@ndixit)",
+  "license": "",
+  "files": [
+    "README.md",
+    "countlines.js"
+  ],
+  "devDependencies": {
+    }
+}
